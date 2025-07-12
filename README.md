@@ -77,7 +77,7 @@ Logging (CSV)
 
 ## Requirements
 
-* **Python 3.8+**
+* **Python 3.11+**
 * [Ollama](https://ollama.com/) running locally (for LLM + embedding API)
 * Python packages:
 
