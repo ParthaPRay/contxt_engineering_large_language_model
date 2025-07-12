@@ -1,7 +1,3 @@
-Certainly! Here is a **detailed `README.md`** suitable for your GitHub repository, with all the necessary context, usage, requirements, and an explanation of the pipeline, variables, and architecture. This will help researchers, developers, and students understand and run your code.
-
----
-
 # Context Engineering for Localized LLMs
 
 **Author:** Partha Pratim Ray
